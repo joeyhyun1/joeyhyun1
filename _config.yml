@@ -12,7 +12,7 @@ email: HyunJoey@msu.edu
 # email_title: Email (Email title override)
 phone: (858)-610-2530
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website:
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -21,17 +21,9 @@ darkmode: true
 # Social links
 
 github_username:  joeyhyun1
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: joeyhyvn
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+linkedin_username: Joey Hyun
 
 # Additional icon links
 additional_links:
@@ -52,13 +44,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Hello, I am currently a student at Michigan State University and making progress towards
+    a bachelors in computer science engineering and games and interactive media.
+    Below you can see more information about my qualifications and above are most
+    of my social links.
 
 content:
   - title: Projects # Title for the section
@@ -97,19 +86,18 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+        title: Troy High School
+        sub_title: High School Degree
+        caption: 2019 - 2022
+      - layout: top-right
+        title: Michigan State University
+        sub_title: BA Computer Science, BA Games and Interactive Media
+        caption: 2022 - present
+        
+  - title: Skills
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    content: |
+      Microsoft Excel, Microsoft Word, Python, Unity, C#, Teamwork, Time Management, 
 
 # Footer
 footer_show_references: true
