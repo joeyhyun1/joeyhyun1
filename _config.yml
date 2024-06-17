@@ -21,15 +21,12 @@ darkmode: true
 # Social links
 
 github_username:  joeyhyun1
-flickr_username: jekyll
 instagram_username: joeyhyvn
-linkedin_username: Joey Hyun
+linkedin_username: joey-hyun
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
