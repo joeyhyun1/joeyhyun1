@@ -39,7 +39,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: pictures/Resume/IMG_0709.JPG
+about_profile_image: "C:\Users\joeyh\OneDrive\Pictures\Resume\IMG_0709.JPG"
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am currently a student at Michigan State University and making progress towards
     a bachelors in computer science engineering and games and interactive media.
